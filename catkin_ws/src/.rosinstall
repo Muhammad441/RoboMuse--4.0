@@ -1,4 +1,0 @@
-- git:
-    local-name: youbot_manipulation
-    uri: git@github.com:svenschneider/youbot-manipulation.git
-    version: indigo

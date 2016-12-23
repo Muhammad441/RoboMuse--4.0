@@ -1,8 +1,0 @@
-prefix=/home/dell/catkin_ws/devel
-
-Name: youbot_moveit_self
-Description: Description of youbot_moveit_self
-Version: 0.2.0
-Cflags: 
-Libs: -L/home/dell/catkin_ws/devel/lib 
-Requires: 
