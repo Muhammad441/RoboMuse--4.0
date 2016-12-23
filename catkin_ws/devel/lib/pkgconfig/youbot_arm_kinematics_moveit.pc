@@ -1,0 +1,8 @@
+prefix=/home/dell/catkin_ws/devel
+
+Name: youbot_arm_kinematics_moveit
+Description: Description of youbot_arm_kinematics_moveit
+Version: 0.1.0
+Cflags: 
+Libs: -L/home/dell/catkin_ws/devel/lib 
+Requires: 

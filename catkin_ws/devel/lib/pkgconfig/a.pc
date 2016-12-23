@@ -1,0 +1,8 @@
+prefix=/home/dell/catkin_ws/devel
+
+Name: a
+Description: Description of a
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/dell/catkin_ws/devel/lib 
+Requires: 
